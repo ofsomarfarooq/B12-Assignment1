@@ -62,6 +62,8 @@
 
     .btn:hover{
         background-color: #8c89ee;
+        color: rgb(0, 0, 0);
+        font-weight: 800;
     }
 
     .center-text{
