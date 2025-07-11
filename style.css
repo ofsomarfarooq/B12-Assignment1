@@ -103,3 +103,48 @@
         margin-bottom: 30px; 
         margin-right: 100px;
     }
+
+    /* 3rd part */
+
+    .main-2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 100px;
+
+    }
+    
+
+    .stats-container{
+        background-color: #e8eaff;
+        padding: 40px 250px;
+        border-radius: 30px;
+        text-align: center;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.394);
+    }
+
+    .stats-container h1{
+        font-size: 38px;
+        font-weight: 600;
+        color: #1a1a1a;
+        margin-bottom: 30px;
+    }
+
+    .stats{
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        gap: 16%;
+    }
+
+    .stat-item h3{
+        font-size: 80px;
+        font-weight: 800;
+        color: #4a4aff;
+        margin-bottom: 5px;
+    }
+
+    .stat-item p{
+        font-size: 20px;
+        color: #666;
+    }
