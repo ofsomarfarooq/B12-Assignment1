@@ -224,3 +224,92 @@
     .avatar-info span {
         display: block;
     }
+
+    /*5th part */
+
+    .main-4{
+
+        margin: 0;
+        margin-top: 100px;
+        padding: 0;
+    }
+
+    .focus-section {
+        background-color: #ffffff;
+        padding: 60px 20px;
+        text-align: center;
+        border-radius: 20px;
+        max-width: 1100px;
+        margin: 60px auto;
+    }
+
+    .focus-section h2 {
+        font-size: 50px;
+        font-weight: bold;
+        color: #111;
+        margin-bottom: 16px;
+    }
+
+    .focus-section p {
+        font-size: 20px;
+        color: #777;
+        margin-bottom: 30px;
+    }
+
+    .image-container {
+        margin-top: 40px;
+    }
+
+    .image-container img {
+        width: 100%;
+        max-width: 900px;
+        border-radius: 24px;
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+    }
+
+    .focus-section h1 {
+        font-size: 28px;
+      }
+
+      .image-container img {
+        border-radius: 16px;
+      }
+
+
+      /* 6th part */
+
+    .main-5 {
+        margin: 0;
+        padding: 0;
+    }
+
+    .contact-section {
+        display: flex;
+        justify-content: center;
+        gap: 100px;
+    }
+    
+
+    .contact-heading {
+        font-size: 60px;
+        font-weight: bolder;
+        color: #111;
+    }
+    
+    .contact-form label {
+        margin-bottom: 10px;
+        font-size: 20px;
+        font-weight: bold;
+        color: #333;
+    }
+
+    .contact-form input,
+    .contact-form textarea {
+        height: 60px;
+        width: 500px;
+        padding: 12px 14px;
+        margin-bottom: 20px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        font-size: 14px;
+    }
