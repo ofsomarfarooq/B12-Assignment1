@@ -76,3 +76,30 @@
         color: #111;
         margin-bottom: 50px;
     }
+
+    /* 2nd Part */
+    .main-1{
+        display: flex; 
+        align-items: center; 
+        justify-content: center; 
+        flex-wrap: wrap;
+        margin: auto;
+        padding: 80px 60px;
+    }
+
+    .headline{
+        max-width: 50%;
+    }
+    .headline h2{
+        font-size: 42px; 
+        color: #111; 
+        margin-bottom: 20px;        
+    }
+
+    .headline p{
+        max-width: 60%;
+        color: #666; 
+        font-size: 24px; 
+        margin-bottom: 30px; 
+        margin-right: 100px;
+    }
