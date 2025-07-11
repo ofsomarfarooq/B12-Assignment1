@@ -291,9 +291,13 @@
         gap: 100px;
     }
     
+    .form-div{
+        align-content: center;
+    }
+    
 
     .contact-heading {
-        font-size: 60px;
+        font-size: 97px;
         font-weight: bolder;
         color: #111;
     }
